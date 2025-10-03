@@ -98,4 +98,8 @@
     - +.oray.net
     - +.todesk.com
     - v4.plex.tv
+    - v6.plex.tv
     - plex.direct
+    - +.v4.plex.tv
+    - +.v6.plex.tv
+    - +plex.direct
